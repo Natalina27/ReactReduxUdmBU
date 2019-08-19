@@ -1,2 +1,0 @@
-# ReactReduxUdmBU
-Created with CodeSandbox
